@@ -5,3 +5,4 @@ tugas yang termasuk di dalam nya adalah
 1. perulangan for
 2. perulangan while
 3. perulangan do-while
+4. array dua dimensi
